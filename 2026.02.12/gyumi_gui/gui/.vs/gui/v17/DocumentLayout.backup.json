@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szaadr206\\Desktop\\gyumi\\gyumolcsos\\2026.02.12\\gyumi_gui\\gui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E9777B-4998-4465-8251-930582FFA430}|gui\\gui.csproj|c:\\users\\szaadr206\\desktop\\gyumi\\gyumolcsos\\2026.02.12\\gyumi_gui\\gui\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5E9777B-4998-4465-8251-930582FFA430}|gui\\gui.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\szaadr206\\Desktop\\gyumi\\gyumolcsos\\2026.02.12\\gyumi_gui\\gui\\gui\\Form1.cs",
+              "RelativeDocumentMoniker": "gui\\Form1.cs",
+              "ToolTip": "C:\\Users\\szaadr206\\Desktop\\gyumi\\gyumolcsos\\2026.02.12\\gyumi_gui\\gui\\gui\\Form1.cs [Design]",
+              "RelativeToolTip": "gui\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:55:46.894Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
